@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">currentWeek</string>
+    <string name="texto">TextView</string>
+    <string name="boton2">Button</string>
+</resources>
